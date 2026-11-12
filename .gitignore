@@ -1,0 +1,5 @@
+.vagrant/
+*.vmdk
+ssh_config
+.disks/
+.vscode/
